@@ -1,3 +1,4 @@
+#author: @moumit
 import art
 
 print(art.logo)
